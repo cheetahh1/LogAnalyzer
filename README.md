@@ -17,10 +17,10 @@ It separates the **Core Logic** from the **Interface**, making it capable of run
 
 ## Project Structure
 
-LogAnalyzer
-── analyzer.py        # The Core Logic (Brain) - Shared Library
-── cli.py     # The CLI Tool (Interface) - Run this!
-── test.log           # Sample data for testing
+LogAnalyzer folder: 
+analyzer.py # The Core Logic (Brain) - Shared Library
+cli.py     # The CLI Tool (Interface) - Run this!
+test.log   # Sample data for testing
 
 ## Project Structure
 - Prerequisites
